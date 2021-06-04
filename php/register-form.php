@@ -4,10 +4,10 @@
 if(isset($_POST['url']) && $_POST['url'] == ''){
 
 	// put your email address here
-	$youremail = 'yourname@mail.com';  
+	$youremail = 'gus@kainos.cc';  
 
 	// prepare message 
-	$body = "You have got a new message from the contact form on your website - Waybinar :
+	$body = "You have got a new message from the contact form on your website - Kainos.cc :
 	
 	Name:  $_POST[name]
 	Email:  $_POST[email]
